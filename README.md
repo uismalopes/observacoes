@@ -1,2 +1,2 @@
-# Projeto de microsserviços (Observações)
-Projeto desenvolvido em aula na USJT, na aula de microsserviços
+# Projeto de microsserviços (projeto observações)
+Projeto desenvolvido na aula de microsserviços na USJ.
